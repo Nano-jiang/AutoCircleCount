@@ -3,7 +3,7 @@
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2021a%20or%20higher-blue.svg)](https://www.mathworks.com/products/matlab.html)
 [![Field](https://img.shields.io/badge/Field-Behavioral%20Neuroscience-green.svg)]()
 
-**AutoCircleCount** 是一套基于 MATLAB 开发的全流程行为学分析方案，专门用于环形迷宫（Circular Maze）场景下的动态目标追踪与自动化圈数识别。系统通过整合轨迹几何特征与运动学参数，实现对小鼠顺时针跑圈行为的高精度量化。
+> **动态目标追踪与圈数统计系统：** 一套基于 MATLAB 开发的全流程行为学分析方案，专门用于环形迷宫（Circular Maze）场景下的动态目标追踪与自动化圈数识别。系统通过整合轨迹几何特征与运动学参数，实现对小鼠顺时针跑圈行为的高精度量化。
 
 ---
 
