@@ -18,7 +18,6 @@
 * **MATLAB**: 推荐使用 R2021a 或更高版本。
 * **工具箱依赖**: 
     * Image Processing Toolbox
-    * Computer Vision Toolbox
 
 ### 2. 标准操作流程
 1. **启动程序**: 下载并解压仓库，在 MATLAB 命令窗口运行主入口脚本：
@@ -29,7 +28,8 @@
 <div align="center">
   <img width="266" height="270" alt="image" src="https://github.com/user-attachments/assets/b4edaf3e-48b0-4fad-a599-d81065e48710" />
 </div>
-4. **信号校准**: 在命令行提示下，定位至头部红色 LED 信号清晰的帧，并手动框选**LED 特征区域**。系统将以此作为模板进行全时段坐标重心追踪。
+
+4. **信号校准**: 在命令行提示下，定位至头部红色 LED 信号清晰的帧，并手动框选 **LED 特征区域**。系统将以此作为模板进行全时段坐标重心追踪。
 
 ---
 
